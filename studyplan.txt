@@ -1,0 +1,37 @@
+study plan 
+
+Day 1: DSA Basics & Python Refresher
+9:00 AM - 10:00 AM: Review Data Structures (Arrays, Linked Lists, Stacks, Queues, Hashmaps, Heaps).
+Resources: GeeksforGeeks Data Structures Section, LeetCode (Array and Linked List easy problems).
+10:30 AM - 11:30 AM: Python Refresher (Decorators, Generators, Context Managers, Threading).
+Resources: Fluent Python, Real Python (Advanced Python Tutorials).
+Day 2: Algorithmic Problems
+9:00 AM - 10:00 AM: Sorting & Searching Algorithms.
+Resources: GeeksforGeeks Sorting Algorithms, LeetCode (Kth Largest Element, Binary Search).
+10:30 AM - 11:30 AM: Recursion & Dynamic Programming.
+Resources: GeeksforGeeks Dynamic Programming, LeetCode (Coin Change, Longest Common Subsequence).
+Day 3: System Design
+9:00 AM - 10:00 AM: Core System Design Concepts.
+Resources: Educative’s Grokking the System Design Interview, High Scalability Blog, System Design Primer (GitHub).
+10:30 AM - 11:30 AM: Mock System Design.
+Resources: Grokking the System Design Interview (Educative), LeetCode Design Problems.
+Day 4: Advanced DSA & System Design Practice
+9:00 AM - 10:00 AM: Advanced DSA (Trees, Graphs, Dynamic Programming).
+Resources: LeetCode (DFS/BFS, Maximum Subarray Sum).
+10:30 AM - 11:30 AM: Mock System Design.
+Resources: Grokking the System Design Interview, LeetCode (File Storage System).
+Day 5: Full-Stack Web Development with Python
+9:00 AM - 10:00 AM: Flask/Django REST API Development.
+Resources: Flask Official Docs, Django REST Framework Docs, TutorialsPoint (Flask API).
+10:30 AM - 11:30 AM: Backend Performance Optimization.
+Resources: Redis Documentation, LeetCode (Rate Limiting).
+Day 6: Behavioral Interview Prep & Mock Interview
+9:00 AM - 10:00 AM: Behavioral Interview Prep (STAR Method).
+Resources: Cracking the Coding Interview (book), LeetCode (Mock Interviews).
+10:30 AM - 11:30 AM: Mock Interview.
+Resources: Interviewing.io, Pramp for live mock interviews.
+Day 7: Final Review & Rest
+9:00 AM - 10:00 AM: Review DSA Solutions & System Design Patterns.
+Resources: LeetCode (Review), System Design Primer (GitHub).
+10:30 AM - 11:30 AM: Resume Review & Final Prep.
+Resources: Pramp or Interviewing.io for one last practice round.

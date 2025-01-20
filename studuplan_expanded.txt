@@ -1,0 +1,103 @@
+studuplan expanded
+
+Day 1: DSA Basics & Python Refresher
+9:00 AM - 10:00 AM: Review Data Structures
+Resources:
+GeeksforGeeks Data Structures Section
+Practice problems on LeetCode (Array and Linked List easy problems)
+LeetCode Examples:
+Merge Sorted Arrays: LeetCode Problem
+Reverse Linked List: LeetCode Problem
+10:30 AM - 11:30 AM: Python Refresher
+Resources:
+Fluent Python (book for advanced Python topics)
+Real Python Decorators and Generators
+Practice advanced Python problems on HackerRank Advanced Python Track
+Day 2: Algorithmic Problems
+9:00 AM - 10:00 AM: Sorting & Searching Algorithms
+Resources:
+GeeksforGeeks Sorting Algorithms
+LeetCode (Medium level Sorting & Searching problems)
+LeetCode Examples:
+Kth Largest Element: LeetCode Problem
+Binary Search: LeetCode Problem
+10:30 AM - 11:30 AM: Recursion & Dynamic Programming
+Resources:
+GeeksforGeeks Dynamic Programming
+LeetCode (Dynamic Programming problems)
+LeetCode Examples:
+Coin Change: LeetCode Problem
+Longest Common Subsequence: LeetCode Problem
+Day 3: System Design
+9:00 AM - 10:00 AM: Core System Design Concepts
+Resources:
+
+Grokking the System Design Interview (Educative)
+High Scalability Blog System Design Patterns
+System Design Primer (GitHub) System Design Primer
+10:30 AM - 11:30 AM: Mock System Design
+Resources:
+
+Grokking the System Design Interview Designing a URL Shortener
+LeetCode Design Problems
+LeetCode Example:
+Design a URL Shortener: LeetCode Problem
+Day 4: Advanced DSA & System Design Practice
+9:00 AM - 10:00 AM: Advanced DSA
+Resources:
+
+GeeksforGeeks Advanced Data Structures
+LeetCode (Medium & Hard-level DSA problems)
+LeetCode Examples:
+Maximum Subarray Sum: LeetCode Problem
+DFS/BFS in Graphs: LeetCode Problem
+10:30 AM - 11:30 AM: Mock System Design
+Resources:
+
+Grokking the System Design Interview (Educative)
+LeetCode Design Problems
+LeetCode Example:
+Design a File Storage System: LeetCode Problem
+Day 5: Full-Stack Web Development with Python
+9:00 AM - 10:00 AM: Flask/Django REST API
+Resources:
+
+Flask Official Docs Flask Web Development
+Django Official Docs Django REST Framework
+TutorialsPoint Build a Flask API
+10:30 AM - 11:30 AM: Optimize Backend Performance
+Resources:
+
+Redis Documentation Caching with Redis
+LeetCode (API optimization challenges) LeetCode Example:
+Implement Rate Limiting: LeetCode Problem
+Day 6: Behavioral Interview Prep & Mock Interview
+9:00 AM - 10:00 AM: Behavioral Interview Prep (STAR Method)
+Resources:
+
+"Cracking the Coding Interview" (book by Gayle Laakmann McDowell) Behavioral Questions
+LeetCode Mock Interviews
+Example Questions:
+"Tell me about a time you solved a problem under pressure."
+"Describe a time when you worked in a team to achieve a goal."
+10:30 AM - 11:30 AM: Mock Interview
+Resources:
+
+Interviewing.io or Pramp for live mock interviews.
+LeetCode Explore Mock Interview
+Day 7: Final Review & Rest
+9:00 AM - 10:00 AM: Review DSA Solutions & System Design Patterns
+Resources:
+
+Review your LeetCode submissions for common mistakes.
+Go through key System Design patterns on High Scalability or System Design Primer.
+10:30 AM - 11:30 AM: Resume Review & Final Prep
+Resources:
+
+Pramp or Interviewing.io for one last practice round.
+LinkedIn for potential interview questions or updates.
+Additional Tools for Practice:
+LeetCode and HackerRank for coding problems.
+Grokking the System Design Interview (Educative) for mock system design questions.
+System Design Primer (GitHub) for in-depth system design topics and examples.
+This study plan with references will give you a comprehensive preparation guide in the final week. Let me know if you need more resources or adjustments!
