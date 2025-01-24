@@ -166,4 +166,53 @@ print(dfs_with_dp(root, 1, dp, k, graph))
 # Dynamic Programming	    Store intermediate results to avoid recomputation (optional).
 
 
+from collections import defaultdict
+
+def getmaxRating(connections, rating, k):
+    # Step 1: Build the graph
+    graph = defaultdict(list)
+    root = -1
+    for child, parent in enumerate(connections):
+        if parent == -1:
+            root = child  # Identify the root
+        else:
+            graph[parent].append(child)
+
+    # Step 2: Initialize DP table
+    n = len(connections)
+    dp = [[-1] * (k + 1) for _ in range(n)]
+
+    # Step 3: Define DFS with DP
+    def dfs(node, length):
+        # Base case: If path length is 0, only the current node contributes
+        if length == 0:
+            return rating[node]
+        
+        # If already computed, return the stored value
+        if dp[node][length] != -1:
+            return dp[node][length]
+
+        # Calculate max rating for the current node and length
+        max_rating = 0
+        for child in graph[node]:
+            if length - 1 >= 0:  # Ensure path length constraint
+                max_rating = max(max_rating, dfs(child, length - 1))
+        
+        # Store the result in the DP table
+        dp[node][length] = rating[node] + max_rating
+        return dp[node][length]
+
+    # Step 4: Compute the result
+    max_rating_result = 0
+    for node in range(n):
+        max_rating_result = max(max_rating_result, dfs(node, k))
+
+    return max_rating_result
+
+# Example input
+connections = [1, 2, 4, 4, -1]
+rating = [2, 3, 1, 4, 0]
+k = 2
+
+print(getmaxRating(connections, rating, k))  # Output: 7
 

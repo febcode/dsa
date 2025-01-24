@@ -46,10 +46,19 @@ def findKthLargestheapq(nums, k):
         if len(min_heap) > k:
             heapq.heappop(min_heap)
         
-        print(min_heap)
+        # print(min_heap)
     return min_heap[0]
 
 
 nums = [3,2,1,5,6,4]
 k = 2
 print(findKthLargestheapq(nums,k))
+
+
+
+def find_kth_largest(nums, k):
+    print(heapq.nlargest(k, nums))
+    return heapq.nlargest(k, nums)[-1]
+
+# Example Usage
+print(find_kth_largest([3, 2, 1, 5, 6, 4], 3))  # Output: 5
